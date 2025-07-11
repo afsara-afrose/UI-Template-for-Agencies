@@ -46,3 +46,33 @@ nav{
 header{
     background-image: url('../Assets/Hero-bg.png');
 }
+
+/* main section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.action{
+    display: flex;
+    justify-content: space-between;
+}
+.action-item{
+    margin-right: 220px;
+}
+
+.img{
+    border-radius: 20px;;
+}
+.action-tittle{
+    font-weight: bold;
+    font-size: 42px;
+    color:#252432
+}
+.action-subtitle{
+    font-size: 24px;
+    color:#9491b9;
+    margin-top: 32px;
+    margin-bottom: 32px;
+
+}
