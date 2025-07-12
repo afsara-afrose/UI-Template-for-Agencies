@@ -110,3 +110,43 @@ main{
     
 
 }
+
+/* Users Observation */
+.Thoughts{
+    text-align: center;
+    margin-top: 132px;
+    font-size: 42px;
+    font-weight: bold;
+
+}
+.container{
+    background-color:aliceblue;
+    margin-top:99px;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+.users-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+
+
+.star{
+  width: 100px; 
+  height: 20px;
+  background-image: url('../Assets/icon-star.png');
+  background-repeat: repeat-x;
+  background-size: 20px 20px;
+}
+
+.picture{
+    display: flex;
+}
+.description{
+    font-weight: 600;
+      color:#9491b9;
+      
+
+}
