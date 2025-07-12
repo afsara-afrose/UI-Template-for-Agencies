@@ -28,6 +28,13 @@ nav{
     border: none;
 }
 
+.bg-secondery{
+     background-color:aliceblue;
+}
+.text-color{
+     color:#9491b9;
+}
+
 /* banner section */
 .banner{
     text-align: center;
@@ -120,7 +127,7 @@ main{
 
 }
 .container{
-    background-color:aliceblue;
+   
     margin-top:99px;
     border-radius: 10px;
     padding: 20px;
@@ -150,3 +157,22 @@ main{
       
 
 }
+
+/* Focus Section */
+.focus{
+    margin-top: 142px;
+    text-align: center;
+}
+.focus-title{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 71px ;
+    
+}
+
+.focus-img{
+    border-radius: 48px;
+    margin-top: 30px;
+    
+}
+
